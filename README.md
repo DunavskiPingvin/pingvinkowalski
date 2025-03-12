@@ -1,7 +1,7 @@
-# Hi there, I'm pingvinkowalski! 👋
+# Hi there, I'm DunavskiPingvin! 👋
 
 ## About Me
-I'm a passionate developer who loves to work on innovative projects and explore new technologies. I have a keen interest in open-source contributions and enjoy collaborating with others in the community.
+I'm a passionate penguin developer who loves to work on innovative projects and explore new technologies. I have a keen interest in open-source contributions and enjoy collaborating with others in the community.
 
 ## My Projects
 Here are some of my key projects:
@@ -11,17 +11,16 @@ Pigeon Freedom License - A license like GPL but for pigeons
 
 
 ## Skills
-- **Programming Languages**: List of programming languages you are proficient in (e.g., JavaScript, Python, Java).
-- **Frameworks and Libraries**: List of frameworks and libraries you frequently use (e.g., React, Node.js, Django).
-- **Tools and Platforms**: List of tools and platforms you work with (e.g., Git, Docker, AWS).
+- **Programming Languages**: Python Java and SQL .
+- **Frameworks and Libraries**: PostgreSQL MySQL MariaDB.
 
 ## Contact Me
-- **GitHub**: [pingvinkowalski](https://github.com/pingvinkowalski)
+- **GitHub**: [DunavskiPingvin]((https://github.com/DunavskiPingvin)
 
 ## GitHub Stats
-![pingvinkowalski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pingvinkowalski&show_icons=true&theme=radical)
+![pingvinkowalski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DunavskiPingvin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingvinkowalski&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DunavskiPingvini&layout=compact&theme=radical)
 
 ## Badges
 ![Badge Name](https://img.shields.io/badge/Your_Badge-Description-blue)

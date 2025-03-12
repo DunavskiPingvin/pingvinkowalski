@@ -16,11 +16,10 @@ Pigeon Freedom License - A license like GPL but for pigeons
 
 ## Contact Me
 - **GitHub**: [DunavskiPingvin]((https://github.com/DunavskiPingvin)
+- **Email** : [dunavskipingvin@gmail.com](dunavskipingvin@gmail.com)
 
 ## GitHub Stats
-![pingvinkowalski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DunavskiPingvin&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DunavskiPingvini&layout=compact&theme=radical)
+![DunavskiPingvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DunavskiPingvin&show_icons=true&theme=radical)
 
 ## Badges
 ![Badge Name](https://img.shields.io/badge/Your_Badge-Description-blue)

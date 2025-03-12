@@ -16,7 +16,7 @@ Pigeon Freedom License - A license like GPL but for pigeons
 
 ## Contact Me
 - **GitHub**: [DunavskiPingvin]((https://github.com/DunavskiPingvin)
-- **Email** : [dunavskipingvin@gmail.com](dunavskipingvin@gmail.com)
+- **Email** : [dunavskipingvin@gmail.com](mailto:dunavskipingvin@gmail.com)
 
 ## GitHub Stats
 ![DunavskiPingvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DunavskiPingvin&show_icons=true&theme=radical)

@@ -12,12 +12,9 @@ I enjoy tackling challenging problems and learning new technologies. Whether it'
 
 ## Skills
 
-* **Programming Languages:** (Add languages you know, e.g., Python, C++, Java, JavaScript, etc.)
-* **Web Development:** (Add technologies you know, e.g., HTML, CSS, React, Angular, Vue.js, etc.)
-* **Databases:** (Add databases you know, e.g., MySQL, PostgreSQL, MongoDB, etc.)
-* **Cloud Technologies:** (Add cloud technologies you know, e.g., AWS, Azure, GCP, etc.)
-* **Other:** (Add any other relevant skills, e.g., Git, Docker, etc.)
-
+* **Programming Languages:** Python, Java, C , C++(mostly a little)
+* **Web Development:** HTML
+* **Databases:** MySQl,Postgres,MariaDB,SQLite
 
 
 ## Connect with Me
